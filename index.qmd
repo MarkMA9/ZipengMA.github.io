@@ -1,6 +1,6 @@
 ---
 title: "Zipeng MA"
-image: images/lianyujun_2025.png
+image: images/ZIPENG.jpg
 about:
   id: hero-heading
   template: trestles
