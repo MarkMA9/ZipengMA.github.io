@@ -22,7 +22,7 @@ about:
     
     - icon: 📝
       text: CV
-      href: CV.pdf  
+      href: Zipeng MA CV.pdf
 ---
 
 ::: {#hero-heading}
@@ -34,8 +34,9 @@ My teaching abilities have been widely recognized. In Economics, I have been tea
 
 ## Background
 
-- Fed 2024 - Aug 2024: Visiting Scholar, Economics Department, University of California - DAVIS
+
 - 2020 - Present: PhD Candidate, Economics Department, ESSEC Business School, specializing in International Economics
+- Feb 2024 - Aug 2024: Visiting Scholar, Economics Department, University of California - DAVIS
 - 2020 - 2021: Master of Research in Economics, Cergy Paris University
 - 2019 - 2020: Master of Science, University College London
 - 2017 - 2019: Bachelor of Science, University of Birmingham
