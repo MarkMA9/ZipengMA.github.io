@@ -1,5 +1,5 @@
 ---
-title: "Yujun Lian"
+title: "Zipeng MA"
 image: images/lianyujun_2025.png
 about:
   id: hero-heading
@@ -8,32 +8,18 @@ about:
   image-shape: round
   links:
     - icon: mailbox
-      text: arlionn@163.com
-      href: mailto:arlionn@163.com
+      text: zipeng.ma@essec.edu
+      href: mailto:zipeng.ma@essec.edu
     - icon: github
       text: arlionn
-      href: https://github.com/lianyujun
+      href: https://github.com/MarkMA9
     - icon: book
       text: Google Scholar
-      href: https://scholar.google.com/citations?user=tlkDP2AAAAAJ
+      href: https://scholar.google.com/citations?user=lpMADI0AAAAJ&hl=en
     - icon: fingerprint
       text: ORCID
-      href: https://orcid.org/0000-0002-2011-7535
-    - icon: brands zhihu
-      text: 知乎
-      href: https://www.zhihu.com/people/arlionn/
-    - icon: brands weibo
-      text: 微博
-      href: https://weibo.com/arlionn
-    - icon: brands xing
-      text: 小红书
-      href: https://www.xiaohongshu.com/user/profile/682968d9000000000a03da1a
-    - icon: solid user
-      text: 工作主页
-      href: https://lingnan.sysu.edu.cn/faculty/LianYujun
-    - icon: brands home
-      text: 连享会
-      href: https://www.lianxh.cn
+      href: https://orcid.org/0009-0001-4293-9855
+    
     - icon: 📝
       text: CV
       href: CV.pdf  
