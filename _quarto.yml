@@ -5,9 +5,9 @@ project:
 website:
   page-navigation: true
   title: "Zipeng MA"
-  site-url: https://ZipengMA.github.io
+  site-url: https://zipengmarkma.github.io
   favicon: images/site-logo.png
-  repo-url: https://github.com/MarkMA9/ZipengMA.github.io
+  repo-url: https://github.com/ZipengMarkMA
   repo-actions: [edit, issue]
   
   page-footer: |

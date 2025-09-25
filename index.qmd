@@ -11,8 +11,8 @@ about:
       text: zipeng.ma@essec.edu
       href: mailto:zipeng.ma@essec.edu
     - icon: github
-      text: MarkMA
-      href: https://github.com/MarkMA9
+      text: ZipengMarkMA
+      href: https://github.com/ZipengMarkMA
     - icon: book
       text: Google Scholar
       href: https://scholar.google.com/citations?user=lpMADI0AAAAJ&hl=en

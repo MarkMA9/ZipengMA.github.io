@@ -66,10 +66,10 @@ Zipeng MA. PhD Candidate in the Economics Department at ESSEC Business School, a
 ## Scholarships and Certificates
 - Full Scholarship from ESSEC Business School for Ph.D. students
 - Aide à la Mobilité Internationale du Collège Doctoral - CY Cergy Paris University
-- Scholarship for Business school student in University of Birmingham
+- Scholarship for Business school student at University of Birmingham
 - 'Provincial Government Scholarship of Overseas Studies for Undergraduates' in China
 
 
 ## Others
-- Language: Chinese Mandarin (Native); English (Professional); French (Internediate)
-- Chief player of Nationality philharmonic orchestra in Nanjing Audit University
+- Language: Chinese Mandarin (Native); English (Professional); French (Intermediate)
+- Chief player of Nationality philharmonic orchestra at Nanjing Audit University
