@@ -4,30 +4,31 @@ project:
   
 website:
   page-navigation: true
-  title: "Yujun Lian"
+  title: "Zipeng MA"
   site-url: https://ZipengMA.github.io
   favicon: images/site-logo.png
   repo-url: https://github.com/MarkMA9/ZipengMA.github.io
   repo-actions: [edit, issue]
   
-  page-footer:
-    left: |
-      [lianxh.cn](https://www.lianxh.cn)<br>
-    right: |
-      Made with [Quarto](https://quarto.org/)<br>
+  page-footer: |
+    <div class="footer-text">
+    <div>Zipeng MA</div>
+    <div><a href="mailto:zipeng.ma@essec.edu">zipeng.ma@essec.edu</a></div>
+    <div>Office 5M5, Economics Department, ESSEC Business School, Singapore</div>
+    </div>
     
   navbar: 
     background: "#A9CCE3"
-    search: true
+    search: false
     right: 
       - text: "Home"
         href: index.qmd
       - text: "Papers"
         href: Papers.qmd
+      - text: "CV"
+        href: ZipengMACV.md
       - text: "中文"
         href: Chinese.qmd
-      - text: "CV"
-        href: CV.pdf
 
 format:
   html:

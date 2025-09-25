@@ -4,14 +4,14 @@ image: images/ZIPENG.jpg
 about:
   id: hero-heading
   template: trestles
-  image-width: 12em
+  image-width: 20em
   image-shape: round
   links:
     - icon: mailbox
       text: zipeng.ma@essec.edu
       href: mailto:zipeng.ma@essec.edu
     - icon: github
-      text: arlionn
+      text: MarkMA
       href: https://github.com/MarkMA9
     - icon: book
       text: Google Scholar
@@ -19,10 +19,9 @@ about:
     - icon: fingerprint
       text: ORCID
       href: https://orcid.org/0009-0001-4293-9855
-    
     - icon: 📝
       text: CV
-      href: Zipeng MA CV.pdf
+      href: files/ZipengMACV.pdf
 ---
 
 ::: {#hero-heading}
@@ -36,7 +35,7 @@ My teaching abilities have been widely recognized. In Economics, I have been tea
 
 
 - 2020 - Present: PhD Candidate, Economics Department, ESSEC Business School, specializing in International Economics
-- Feb 2024 - Aug 2024: Visiting Scholar, Economics Department, University of California - DAVIS
+- Feb 2024 - Aug 2024: Visiting Scholar, Economics Department, University of California, DAVIS
 - 2020 - 2021: Master of Research in Economics, Cergy Paris University
 - 2019 - 2020: Master of Science, University College London
 - 2017 - 2019: Bachelor of Science, University of Birmingham

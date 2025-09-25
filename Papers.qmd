@@ -3,29 +3,28 @@ title: "Publications"
 editor: visual
 ---
 
-
-::: {.callout-note}
+::: callout-note
 ## Links
 
->- **Google Scholar**: <https://scholar.google.com/citations?user=lpMADI0AAAAJ&hl=en>
->- **ORCID**: <https://orcid.org/0009-0001-4293-9855>
->- **ResearchGate:** <https://www.researchgate.net/profile/Zipeng-Ma>
+> -   **Google Scholar**: <https://scholar.google.com/citations?user=lpMADI0AAAAJ&hl=en>
+> -   **ORCID**: <https://orcid.org/0009-0001-4293-9855>
+> -   **ResearchGate:** <https://www.researchgate.net/profile/Zipeng-Ma>
 :::
 
-&emsp;
+ 
 
 ## Working Papers
 
--  The reverse China shock: the factor responses to China trade liberalization. Zipeng MA, Jamus Lim; 2023
--  This paper focuses on the impacts of international trade and increasing export on the Chinese labour market in the Manufacturing sectors from 1997 to 2009, investigating the market variation including the inequality based on sectorial capital intensity, and high-educated worker intensity. Two different identification strategies including IV and Fussy-DiD are implemented to clearly identify the causality. Also, exploiting the Heckscher-Olin model and Skill-biased technological change (SBTC) using Quantile regression and Moderating effect. Rising export exposure will lead to higher employment as well as higher salaries. Considered as a labour-abundant country, China have higher employment in labour-intensive sectors after soar in export according to H-O model, but High-skill (high-education) worker-intensive sectors will have higher employment following SBTC.
+-   The reverse China shock: the factor responses to China trade liberalization. Zipeng MA, Jamus Lim; 2023
 
--  The reverse China shock on innovations and spillover: evidence from manufacturing industries. Zipeng MA; 2025 (Job Market Paper)
--  China Syndrome has been a popular topic during the past decade. Most of the research focuses on the impacts of China's import competition on developed countries, especially on the labor market. Only a few of them take a flipping point of view and examine how this demand shock changed China. A model showing relationship between regional innovations and exports is developed based on individual firms' choices. Then in empirical section, we adopt a new IV to investigate how trade affects patents and innovations from a broader perspective in manufacturing sectors from 1998 to 2015, with a DDML robustness check. Then we show that higher trade exposure in the city leads to higher authorized innovations, and the knowledge intensity usually has spatial spillover effects on the cities nearby. Contrary to common beliefs, although human capital plays an important role in innovations, the channels through which it affects patents in China differ from those in other developed countries. Unlike human capital, physical capital does not significantly affect Chinese regional innovations.
+-   This paper focuses on the impacts of international trade and increasing export on the Chinese labour market in the Manufacturing sectors from 1997 to 2009, investigating the market variation including the inequality based on sectorial capital intensity, and high-educated worker intensity. Two different identification strategies including IV and Fussy-DiD are implemented to clearly identify the causality. Also, exploiting the Heckscher-Olin model and Skill-biased technological change (SBTC) using Quantile regression and Moderating effect. Rising export exposure will lead to higher employment as well as higher salaries. Considered as a labour-abundant country, China have higher employment in labour-intensive sectors after soar in export according to H-O model, but High-skill (high-education) worker-intensive sectors will have higher employment following SBTC.
 
--  "China Syndrome" in Aid? The trade effects of Chinese foreign aid and firm-level innovation networks. Zipeng MA, Wentao Li; In Progress
+-   The reverse China shock on innovations and spillover: evidence from manufacturing industries. Zipeng MA; 2025 (Job Market Paper)
 
+-   China Syndrome has been a popular topic during the past decade. Most of the research focuses on the impacts of China's import competition on developed countries, especially on the labor market. Only a few of them take a flipping point of view and examine how this demand shock changed China. A model showing relationship between regional innovations and exports is developed based on individual firms' choices. Then in empirical section, we adopt a new IV to investigate how trade affects patents and innovations from a broader perspective in manufacturing sectors from 1998 to 2015, with a DDML robustness check. Then we show that higher trade exposure in the city leads to higher authorized innovations, and the knowledge intensity usually has spatial spillover effects on the cities nearby. Contrary to common beliefs, although human capital plays an important role in innovations, the channels through which it affects patents in China differ from those in other developed countries. Unlike human capital, physical capital does not significantly affect Chinese regional innovations.
 
+-   "China Syndrome" in Aid? The trade effects of Chinese foreign aid and firm-level innovation networks. Zipeng MA, Wentao Li; In Progress
 
 ## Published Paper
 
--  Benchmarking carbon emissions efficiency in Chinese cities: A comparative study based on high-resolution gridded data. Bofeng Cai, Huanxiu Guo, Zipeng MA, Zhixuan Wang, Shobhakar Dhakal, Libin Cao; 2019; Applied Energy
+-   Cai, B., Guo, H., Ma, Z., Wang, Z., Dhakal, S. and Cao, L., 2019. Benchmarking carbon emissions efficiency in Chinese cities: A comparative study based on high-resolution gridded data. *Applied energy*, *242*, pp.994-1009. [-Link-](https://www.sciencedirect.com/science/article/pii/S0306261919305537)
