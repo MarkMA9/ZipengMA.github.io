@@ -14,7 +14,15 @@ topics in the Applied Microeconomics.
 
 -   Email: zipeng.ma\@essec.edu (Primary); mzp097\@gmail.com (Private)
 
+<<<<<<< Updated upstream
 -   Tele: +86 18805188322; +65(0) 80681352
+=======
+- Email: zipeng.ma@essec.edu (Primary); mzp097@gmail.com (Private)
+- Tele: +86 18805188322; +65(0) 80681352 
+- Adress: Economics Department, ESSEC Business School, 5 Nepal Park, Singapore, 139408
+- Personal Website: <https://zipengmarkma.github.io>
+- ORCID: <https://orcid.org/0009-0001-4293-9855>
+>>>>>>> Stashed changes
 
 -   Adress: Economics Department, ESSEC Business School, 5 Nepal Park,
     Singapore, 139408 \<\<\<\<\<\<\< Updated upstream \<\<\<\<\<\<\<
