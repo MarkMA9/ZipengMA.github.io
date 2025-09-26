@@ -13,7 +13,11 @@ Zipeng MA. PhD Candidate in the Economics Department at ESSEC Business School, a
 - Email: zipeng.ma@essec.edu (Primary); mzp097@gmail.com (Private)
 - Tele: +86 18805188322; +65(0) 80681352 
 - Adress: Economics Department, ESSEC Business School, 5 Nepal Park, Singapore, 139408
+<<<<<<< Updated upstream
 - Github: <https://zipengmarkma.github.io>
+=======
+- Personal Website: <https://zipengmarkma.github.io>
+>>>>>>> Stashed changes
 - ORCID: <https://orcid.org/0009-0001-4293-9855>
 
 

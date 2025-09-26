@@ -12,7 +12,7 @@ editor:
 - 电子邮箱：zipeng.ma@essec.edu (工作); mzp097@gmail.com (私人) 
 - 电话：+86 18805188322; +65(0) 80681352 
 - 地址：5M5 经济学系，ESSEC 商学院，5 Nepal Park，新加坡，139408 
-- Github：<https://ZipengMA.github.io> 
+- 个人主页：<https://zipengmarkma.github.io> 
 - ORCID：<https://orcid.org/0009-0001-4293-9855> 
 
 
