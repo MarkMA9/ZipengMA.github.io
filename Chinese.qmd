@@ -5,7 +5,8 @@ editor:
     wrap: 72
 ---
 
-## 马子芃个人简介
+
+## 马子芃个人简介 （[PDF版本](ZipengMACV.pdf)）
 
 马子芃。ESSEC商学院经济学系博士候选人，隶属THEMA实验室。导师为Jamus Jerome Lim 林志蔚教授。研究方向聚焦于国际贸易领域及应用微观经济学相关课题。
 
