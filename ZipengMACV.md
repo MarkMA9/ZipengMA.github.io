@@ -12,33 +12,13 @@ School, and the THEMA lab. My supervisor is Prof. Jamus Jerome Lim. My
 research interests lie in the field of International Trade and related
 topics in the Applied Microeconomics.
 
--   Email: zipeng.ma\@essec.edu (Primary); mzp097\@gmail.com (Private)
-
-<<<<<<< Updated upstream
--   Tele: +86 18805188322; +65(0) 80681352
-=======
-- Email: zipeng.ma@essec.edu (Primary); mzp097@gmail.com (Private)
+- Email: zipeng.ma\@essec.edu (Primary); mzp097\@gmail.com (Private)
 - Tele: +86 18805188322; +65(0) 80681352 
-- Adress: Economics Department, ESSEC Business School, 5 Nepal Park, Singapore, 139408
-- Personal Website: <https://zipengmarkma.github.io>
-- ORCID: <https://orcid.org/0009-0001-4293-9855>
->>>>>>> Stashed changes
+- Adress: Economics Department, ESSEC Business School, 5 Nepal Park, Singapore, 139408 
+- Github: <https://zipengmarkma.github.io>
+- Personal Website: <https://zipengmarkma.github.io> 
+- ORCID: <https://orcid.org/0009-0001-4293-9855> 
 
--   Adress: Economics Department, ESSEC Business School, 5 Nepal Park,
-    Singapore, 139408 \<\<\<\<\<\<\< Updated upstream \<\<\<\<\<\<\<
-    Updated upstream
-
--   
-
-    # Github: <https://zipengmarkma.github.io>
-
--   Personal Website: <https://zipengmarkma.github.io> \>\>\>\>\>\>\>
-    Stashed changes =======
-
--   Personal Website: <https://zipengmarkma.github.io> \>\>\>\>\>\>\>
-    Stashed changes
-
--   ORCID: <https://orcid.org/0009-0001-4293-9855>
 
 ## Educational and Visiting Experience
 
